@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class TestController {
 	@RequestMapping("/info")
 	public String info()
-	{	return "Ratan sir great....";
+	{	return "Ratan sir is great....";
 	}
 	
 }
